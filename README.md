@@ -51,7 +51,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![Kafka](https://img.shields.io/badge/kafka-231F20.svg?style=flat&logo=apachekafka&logoColor=white)
 
 ---
 
