@@ -68,6 +68,7 @@
 
 ---
 
-### 🎨 ASCII Mood
-![](https://readme-ascii.vercel.app/api?type=wave)
+### 😂 Commit Joke
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+
 
