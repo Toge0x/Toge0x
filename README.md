@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    Hola, soy Antonio Martínez! 👋
+    ¡Hola, soy Antonio Martínez! 👋
   </h1>
 </div>
 
@@ -43,12 +43,4 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&lo)
 
----
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Toge0x&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Toge0x&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Toge0x&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
 
