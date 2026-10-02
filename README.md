@@ -6,9 +6,9 @@
 
 ## Sobre mí
 
-- 🎓 Estudiante de último año de Ingeniería Informática en la Universidad de Alicante  
+- 🎓 Graduado en Ingeniería Informática en la Universidad de Alicante
+- 📊 Estudiante de Máster en Ciencia de Datos en la Universidad de Alicante
 - 🤖 Apasionado por la IA, el análisis de datos y el desarrollo de software  
-- 🚀 Trabajando en mi proyecto de final de carrera llamado FiTrack
 - 📚 Siempre aprendiendo y compartiendo en GitHub  
 
 ## 🌐 Socials:
@@ -30,6 +30,7 @@
 ![Assembly](https://img.shields.io/badge/assembly-525252.svg?style=flat&logo=cpu&logoColor=white) 
 ![Scheme](https://img.shields.io/badge/scheme-%23c6538c.svg?style=flat&logo=racket&logoColor=white) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) 
+![R](https://shields.io)
 
 ### Frameworks y Librerías
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white) 
