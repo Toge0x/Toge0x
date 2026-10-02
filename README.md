@@ -30,7 +30,7 @@
 ![Assembly](https://img.shields.io/badge/assembly-525252.svg?style=flat&logo=cpu&logoColor=white) 
 ![Scheme](https://img.shields.io/badge/scheme-%23c6538c.svg?style=flat&logo=racket&logoColor=white) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) 
-![R](https://shields.io)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=R&logoColor=white)
 
 ### Frameworks y Librerías
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white) 
